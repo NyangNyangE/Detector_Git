@@ -1,0 +1,12 @@
+20-02-25.11:02:06:02 Line:807  assertion failed or index error : Unknown exception
+20-02-25.11:02:07:02 Line:807  assertion failed or index error : Unknown exception
+20-02-25.11:02:07:02 Line:807  assertion failed or index error : Unknown exception
+20-02-25.11:02:07:02 Line:807  assertion failed or index error : Unknown exception
+20-02-25.11:02:08:02 Line:807  assertion failed or index error : Unknown exception
+20-02-25.11:02:08:02 Line:807  assertion failed or index error : Unknown exception
+20-02-25.11:02:08:02 Line:807  assertion failed or index error : Unknown exception
+20-02-25.11:02:09:02 Line:807  assertion failed or index error : Unknown exception
+20-02-25.11:02:09:02 Line:807  assertion failed or index error : Unknown exception
+20-02-25.11:02:31:02 Line:807  assertion failed or index error : Unknown exception
+20-02-25.11:02:37:02 Line:807  assertion failed or index error : Unknown exception
+20-02-25.11:02:38:02 Line:807  assertion failed or index error : Unknown exception

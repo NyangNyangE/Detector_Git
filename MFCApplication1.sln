@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MFCApplication1", "MFCApplication1\MFCApplication1.vcxproj", "{A1168BC1-C2B3-4476-9ED7-37BC5A2E658C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{5A87819F-65BA-4C0B-B291-2AA176D71B90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1168BC1-C2B3-4476-9ED7-37BC5A2E658C}.Debug|x64.ActiveCfg = Debug|x64
+		{A1168BC1-C2B3-4476-9ED7-37BC5A2E658C}.Debug|x64.Build.0 = Debug|x64
+		{A1168BC1-C2B3-4476-9ED7-37BC5A2E658C}.Debug|x86.ActiveCfg = Debug|Win32
+		{A1168BC1-C2B3-4476-9ED7-37BC5A2E658C}.Debug|x86.Build.0 = Debug|Win32
+		{A1168BC1-C2B3-4476-9ED7-37BC5A2E658C}.Release|x64.ActiveCfg = Release|x64
+		{A1168BC1-C2B3-4476-9ED7-37BC5A2E658C}.Release|x64.Build.0 = Release|x64
+		{A1168BC1-C2B3-4476-9ED7-37BC5A2E658C}.Release|x86.ActiveCfg = Release|Win32
+		{A1168BC1-C2B3-4476-9ED7-37BC5A2E658C}.Release|x86.Build.0 = Release|Win32
+		{5A87819F-65BA-4C0B-B291-2AA176D71B90}.Debug|x64.ActiveCfg = Debug
+		{5A87819F-65BA-4C0B-B291-2AA176D71B90}.Debug|x86.ActiveCfg = Debug
+		{5A87819F-65BA-4C0B-B291-2AA176D71B90}.Release|x64.ActiveCfg = Release
+		{5A87819F-65BA-4C0B-B291-2AA176D71B90}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCA86F03-5BE8-4AA6-906E-766D10ED563D}
+	EndGlobalSection
+EndGlobal
